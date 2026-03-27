@@ -145,4 +145,4 @@ Sensitive files are excluded via `.gitignore`:
 ## 👩‍💻 Built By
 
 **Madiha Maheen** — Final Year CS Student & Data Engineer Intern  
-[LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/Madiha546)
+[LinkedIn](https://www.linkedin.com/in/madiha-maheen8086/) • [GitHub](https://github.com/Madiha546)
