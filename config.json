@@ -1,0 +1,6 @@
+{
+  "telegram_api_id": "YOUR_TELEGRAM_API_ID",
+  "telegram_api_hash": "YOUR_TELEGRAM_API_HASH",
+  "telegram_group": "YOUR_TELEGRAM_GROUP_NAME_OR_ID",
+  "sender_name": "Your Full Name"
+}

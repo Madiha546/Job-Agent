@@ -1,0 +1,16 @@
+# Secrets — never push these!
+gmail_credentials.json
+gmail_token.json
+job_agent_session.session
+*.session
+
+# Database
+jobs.db
+
+# Environment
+.env
+__pycache__/
+*.pyc
+
+# Resume (personal file)
+resume.docx
